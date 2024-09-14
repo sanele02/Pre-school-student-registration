@@ -6,12 +6,12 @@ A Grade 12 Information Technology PAT project that allows parents to register st
  PHASE 2: *89%* (CODING)
 # Features
 
- Parent Interface:
+ # Parent Interface:
 Register a new student by entering personal details.
 Book meetings with either the child’s teacher or the principal for consultations.
 Secure access via login/sign-up functionality before proceeding to the administrative side
 .
- Admin Interface:
+ # Admin Interface:
 Access the system after logging in with valid credentials.
 Search for students using their unique Student ID.
 Manage student data and bookings through a centralized system.
